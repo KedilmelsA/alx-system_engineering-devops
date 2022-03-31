@@ -1,2 +1,3 @@
 vim 4-empty
 #!/bin/bash
+touch hello
