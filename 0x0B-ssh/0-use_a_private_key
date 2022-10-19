@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# connects to a server using ssh
-ssh -i ~/.ssh/holberton ubuntu@35.190.145.187
+# Bash script that uses ssh to connect to your server using the private
+# key ~/.ssh/holberton with the user ubuntu
+ssh ubuntu@34.74.113.114 -i ~/.ssh/holberton
